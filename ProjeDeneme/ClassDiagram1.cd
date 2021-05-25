@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjeDeneme.Portakal">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Portakal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjeDeneme.Meyve">
+    <Position X="6.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAgCABQAgBAAAAAAAAAIAAIAAA=</HashCode>
+      <FileName>Meyve.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjeDeneme.Mandalina">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mandalina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjeDeneme.Elma">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjeDeneme.Cilek">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cilek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjeDeneme.Armut">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjeDeneme.Greyfurt">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Greyfurt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjeDeneme.KatıMeyveSıkacagı">
+    <Position X="4" Y="7" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KatıMeyveSıkacagı.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Right" Position="0.242" />
+  </Class>
+  <Class Name="ProjeDeneme.NarenciyeSıkacagı">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NarenciyeSıkacagı.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Orientation="Left" Position="0.208" />
+  </Class>
+  <Class Name="ProjeDeneme.Form1" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xQAAAAAAKAAABAAIACUAAACAUA4IAAABHSYAQFAABA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjeDeneme.IMeyveSıkacagı">
+    <Position X="6.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMeyveSıkacagı.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Form1" />
+    </ShowAsAssociation>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

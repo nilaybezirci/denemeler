@@ -1,0 +1,15 @@
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.csprojAssemblyReference.cache
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.Form1.resources
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.csproj.GenerateResource.cache
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.AssemblyInfoInputs.cache
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.AssemblyInfo.cs
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\netcoreapp3.1\ProjeDeneme.exe
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\netcoreapp3.1\ProjeDeneme.deps.json
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\netcoreapp3.1\ProjeDeneme.runtimeconfig.json
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\netcoreapp3.1\ProjeDeneme.runtimeconfig.dev.json
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\netcoreapp3.1\ProjeDeneme.dll
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\bin\Debug\netcoreapp3.1\ProjeDeneme.pdb
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.dll
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.pdb
+C:\Users\Nilay\source\repos\ProjeDeneme\ProjeDeneme\obj\Debug\netcoreapp3.1\ProjeDeneme.genruntimeconfig.cache
