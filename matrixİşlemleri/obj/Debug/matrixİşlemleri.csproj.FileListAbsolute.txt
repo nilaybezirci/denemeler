@@ -1,0 +1,11 @@
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\bin\Debug\matrixİşlemleri.exe.config
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\bin\Debug\matrixİşlemleri.exe
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\bin\Debug\matrixİşlemleri.pdb
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.csprojAssemblyReference.cache
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.Form1.resources
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.Properties.Resources.resources
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.csproj.GenerateResource.cache
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.exe
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.pdb
+C:\Users\Nilay\source\repos\matrixİşlemleri\matrixİşlemleri\obj\Debug\matrixİşlemleri.Form2.resources
